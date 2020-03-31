@@ -25,7 +25,7 @@ kbd {
     border-radius: 7px;
     font-family: Arial;
     font-size: 24px;
-    box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.8);
+    box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 1);
     margin: 0 8px;
 }
 
